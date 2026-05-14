@@ -1,3 +1,5 @@
+👋 Hi there
+<!--
 # 👋 Hi there, I'm Uma 
 
 ### Data Science Student
@@ -22,4 +24,5 @@ I am interested in data science, AI-ML and the ways technology can be used to so
 
 ### 📫 Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/uma-shettar/
+-->
 
